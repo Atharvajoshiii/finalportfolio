@@ -4,7 +4,7 @@ import { BackgroundGradientDemo } from './BackgroundGradientDemo';
 function Session() {
   return (
     <div className="bg-transparent flex flex-col items-center p-8 min-h-screen">
-      <h1 className="text-3xl md:text-5xl font-extrabold text-black">About Me</h1>
+      <h1 className="text-3xl md:text-5xl font-extrabold text-black mb-20">Co Curricular Activities</h1>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         <BackgroundGradientDemo
           imageUrl="/session1.jpg"
