@@ -100,7 +100,7 @@ function ParticlesDemo() {
       
       <Particles
         className="absolute inset-0"
-        quantity={800}
+        quantity={1800}
         ease={180}
         color={color}
         refresh
